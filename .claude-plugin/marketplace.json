@@ -1,0 +1,15 @@
+{
+  "name": "attri-insurance-marketplace",
+  "owner": {
+    "name": "Attri AI",
+    "url": "https://attri.ai"
+  },
+  "plugins": [
+    {
+      "name": "attri-insurance",
+      "displayName": "Attri for Insurance Agencies",
+      "source": "./attri-insurance",
+      "description": "AI workflows for insurance agencies: submission triage, policy comparison, policyholder requests (FNOL, COI, endorsements), book-of-business renewal tracking, retention watch, and a Monday agency brief. Every skill keeps an audit trail and requires human approval before anything is sent, filed, or submitted."
+    }
+  ]
+}
