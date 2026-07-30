@@ -1,0 +1,12 @@
+{
+  "name": "attri-insurance",
+  "version": "0.1.0",
+  "description": "Attri for Insurance Agencies — AI workflows for submission triage, policy comparison, policyholder requests (FNOL, COI, endorsements), book-of-business renewal tracking, retention watch, and a Monday agency brief. Built on Anthropic's open-source Small Business plugin, customized for insurance. Every skill keeps an audit trail and requires human approval before anything is sent, filed, or submitted. Learn more at https://attri.ai.",
+  "author": {
+    "name": "Attri AI",
+    "url": "https://attri.ai"
+  },
+  "homepage": "https://attri.ai",
+  "license": "Apache-2.0",
+  "keywords": ["insurance", "agency", "submissions", "renewals", "claims", "attri"]
+}
